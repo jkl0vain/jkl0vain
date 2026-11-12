@@ -34,7 +34,7 @@ I enjoy understanding how systems work, identifying potential security weaknesse
 
 A security automation project focused on human oversight, traceability, and auditable execution.
 
-🔗 [View Repository](https://github.com/jkl0vain/CASE)
+🔗 [[View Repository](https://github.com/jkl0vain/CASE)](https://github.com/MirulHakim/Cognitive-Auditable-Security-Execution-CASE-Opensource-AI-Automation-Workflow-Orchestration-Platform)
 
 **My contributions include:**
 
