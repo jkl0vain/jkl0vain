@@ -1,4 +1,4 @@
-<img width="967" height="78" alt="image" src="https://github.com/user-attachments/assets/72b070c4-2d05-41d1-a3f1-027578f2a583" /><div align="center">
+<div align="center">
 
 # Hi 👋, I'm A'in Safieya
 
