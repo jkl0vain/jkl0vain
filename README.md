@@ -1,21 +1,104 @@
-<h1 align="center">Hi 👋, I'm A'in Safieya</h1>
-<h3 align="center">Enthusiast Student</h3>
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on CASE (Cognitive Auditable Security Execution)<br><br>🌱 I’m currently learning Cybersecurity, Threat Detection, Incident Response, and Secure Software Development<br><br>👨‍💻 All of my projects are available at https://github.com/jkl0vain<br><br>💬 Ask me about Python, Software Engineering, Cybersecurity, and Security Fundamentals<br><br>📫 How to reach me jkl0vain@gmail.com / ainsafieyaaa@gmail.com<br><br>⚡ Fun fact I prefer learning deeply rather than rushing through things.
+# Hi 👋, I'm A'in Safieya
 
+**Software Engineering Student | CompTIA Security+ Certified**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ainsafieya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jkl0vain@gmail.com) 
+Cybersecurity • Secure Software Development • Threat Detection
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jkl0vain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jkl0vain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jkl0vain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18283B?style=flat-square&logo=linkedin&logoColor=8EDAE8)](https://linkedin.com/in/ainsafieya)
+[![GitHub](https://img.shields.io/badge/GitHub-18283B?style=flat-square&logo=github&logoColor=8EDAE8)](https://github.com/jkl0vain)
+[![Email](https://img.shields.io/badge/Email-18283B?style=flat-square&logo=gmail&logoColor=8EDAE8)](mailto:jkl0vain@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jkl0vain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a final-year **Software Engineering student at Universiti Putra Malaysia (UPM)** with a growing interest in cybersecurity, particularly threat detection, incident response, and secure software development.
+
+I enjoy understanding how systems work, identifying potential security weaknesses, and exploring ways to make software more secure and reliable.
+
+💼 Open to **cybersecurity / software engineering internship** opportunities<br>
+🔭 Currently working on **CASE (Cognitive Auditable Secure Execution)**<br>
+🌱 Learning more about **cybersecurity, threat detection, and incident response**<br>
+🔐 CompTIA Security+ certified<br>
+⚡ I prefer learning deeply rather than rushing through things
+
+---
+
+## Featured Project
+
+### CASE | Cognitive Auditable Secure Execution
+
+A security automation project focused on human oversight, traceability, and auditable execution.
+
+🔗 [View Repository](https://github.com/jkl0vain/CASE)
+
+**My contributions include:**
+
+- Developing input normalization for structured and unstructured data
+- Implementing tamper-evident audit logging using SHA-256 hash chaining
+- Designing validation mechanisms and audit integrity verification
+- Writing unit tests and negative test cases
+
+**Technologies:** Python, FastAPI, Pydantic, PostgreSQL
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-18283B?style=flat-square&logo=python&logoColor=8EDAE8)
+![Java](https://img.shields.io/badge/Java-18283B?style=flat-square&logo=openjdk&logoColor=8EDAE8)
+![JavaScript](https://img.shields.io/badge/JavaScript-18283B?style=flat-square&logo=javascript&logoColor=8EDAE8)
+![Dart](https://img.shields.io/badge/Dart-18283B?style=flat-square&logo=dart&logoColor=8EDAE8)
+![SQL](https://img.shields.io/badge/SQL-18283B?style=flat-square&logo=postgresql&logoColor=8EDAE8)
+
+### Frameworks & Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-18283B?style=flat-square&logo=fastapi&logoColor=8EDAE8)
+![Flutter](https://img.shields.io/badge/Flutter-18283B?style=flat-square&logo=flutter&logoColor=8EDAE8)
+![React](https://img.shields.io/badge/React-18283B?style=flat-square&logo=react&logoColor=8EDAE8)
+![Node.js](https://img.shields.io/badge/Node.js-18283B?style=flat-square&logo=nodedotjs&logoColor=8EDAE8)
+![Pydantic](https://img.shields.io/badge/Pydantic-18283B?style=flat-square&logo=pydantic&logoColor=8EDAE8)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18283B?style=flat-square&logo=postgresql&logoColor=8EDAE8)
+![MySQL](https://img.shields.io/badge/MySQL-18283B?style=flat-square&logo=mysql&logoColor=8EDAE8)
+
+### Cybersecurity & Security Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-18283B?style=flat-square&logo=kalilinux&logoColor=8EDAE8)
+![Wireshark](https://img.shields.io/badge/Wireshark-18283B?style=flat-square&logo=wireshark&logoColor=8EDAE8)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-18283B?style=flat-square&logo=burpsuite&logoColor=8EDAE8)
+![Metasploit](https://img.shields.io/badge/Metasploit-18283B?style=flat-square&logoColor=8EDAE8)
+![Nmap](https://img.shields.io/badge/Nmap-18283B?style=flat-square&logoColor=8EDAE8)
+![Snort](https://img.shields.io/badge/Snort-18283B?style=flat-square&logoColor=8EDAE8)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-18283B?style=flat-square&logo=git&logoColor=8EDAE8)
+![GitHub](https://img.shields.io/badge/GitHub-18283B?style=flat-square&logo=github&logoColor=8EDAE8)
+![Linux](https://img.shields.io/badge/Linux-18283B?style=flat-square&logo=linux&logoColor=8EDAE8)
+![Docker](https://img.shields.io/badge/Docker-18283B?style=flat-square&logo=docker&logoColor=8EDAE8)
+![Postman](https://img.shields.io/badge/Postman-18283B?style=flat-square&logo=postman&logoColor=8EDAE8)
+
+---
+
+## Certifications
+
+**CompTIA Security+**
+
+Foundational knowledge in security operations, threat management, risk management, and network security.
+
+---
+
+<div align="center">
+
+**Always learning. Always improving.**
+
+</div>
