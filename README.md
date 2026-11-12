@@ -1,4 +1,4 @@
-<div align="center">
+<img width="967" height="78" alt="image" src="https://github.com/user-attachments/assets/72b070c4-2d05-41d1-a3f1-027578f2a583" /><div align="center">
 
 # Hi 👋, I'm A'in Safieya
 
@@ -34,7 +34,7 @@ I enjoy understanding how systems work, identifying potential security weaknesse
 
 A security automation project focused on human oversight, traceability, and auditable execution.
 
-🔗 [[View Repository](https://github.com/jkl0vain/CASE)](https://github.com/MirulHakim/Cognitive-Auditable-Security-Execution-CASE-Opensource-AI-Automation-Workflow-Orchestration-Platform)
+🔗 [View Repository](https://github.com/MirulHakim/Cognitive-Auditable-Security-Execution-CASE-Opensource-AI-Automation-Workflow-Orchestration-Platform)
 
 **My contributions include:**
 
