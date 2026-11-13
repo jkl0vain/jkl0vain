@@ -75,9 +75,7 @@ A security automation project focused on human oversight, traceability, and audi
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-18283B?style=flat-square&logo=kalilinux&logoColor=8EDAE8)
 ![Wireshark](https://img.shields.io/badge/Wireshark-18283B?style=flat-square&logo=wireshark&logoColor=8EDAE8)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-18283B?style=flat-square&logo=burpsuite&logoColor=8EDAE8)
-![Metasploit](https://img.shields.io/badge/Metasploit-18283B?style=flat-square&logoColor=8EDAE8)
 ![Nmap](https://img.shields.io/badge/Nmap-18283B?style=flat-square&logoColor=8EDAE8)
-![Snort](https://img.shields.io/badge/Snort-18283B?style=flat-square&logoColor=8EDAE8)
 
 ### Tools & Platforms
 
